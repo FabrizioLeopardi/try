@@ -1,0 +1,2 @@
+ROSPlan/rosplan:ROSPlan/rosplan_action_interface:ROSPlan/rosplan_dependencies:ROSPlan/rosplan_dispatch_msgs:ROSPlan/rosplan_knowledge_base:ROSPlan/rosplan_knowledge_msgs:ROSPlan/rosplan_planning_system:ROSPlan/rosplan_rqt:ROSPlan/rosplan_sensing_interface:aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:assignment2_exprob:assignment_2_2022:my_rosplan_interface:rosbot_description
+-DCATKIN_DEVEL_PREFIX=/root/Desktop/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/root/Desktop/ros_ws/install -G Unix Makefiles

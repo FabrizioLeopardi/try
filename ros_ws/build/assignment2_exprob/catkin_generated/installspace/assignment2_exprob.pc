@@ -1,0 +1,8 @@
+prefix=/root/Desktop/ros_ws/install
+
+Name: assignment2_exprob
+Description: Description of assignment2_exprob
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

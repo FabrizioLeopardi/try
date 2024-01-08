@@ -1,0 +1,8 @@
+prefix=/root/Desktop/ros_ws/devel
+
+Name: my_rosplan_interface
+Description: Description of my_rosplan_interface
+Version: 0.0.0
+Cflags: -I/root/Desktop/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
